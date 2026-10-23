@@ -1,2 +1,0 @@
-# CantinhoHotDog
-Hotdog bio page
